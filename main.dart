@@ -36,16 +36,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 class Employee{
   String?name;
   int?contact_no;
@@ -61,9 +51,6 @@ class Employee{
 }
 
 
-
-
-
 void main(){
   
 Employee e1=Employee();
@@ -76,8 +63,4 @@ e2.age=21;
 e2.contact_no=4575869709;
 
 e1.dekhaaoo();
-
-
-
-
 }
