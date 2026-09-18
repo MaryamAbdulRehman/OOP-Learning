@@ -12,3 +12,4 @@ print(book1.title);
 print(book1.author);
 print(book1.price);
 }
+// 2nd Example
