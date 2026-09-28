@@ -40,4 +40,5 @@ void main() {
 
   print("Sum = $sum");
 }
-// For loop while
+// Loops
+// Switch
